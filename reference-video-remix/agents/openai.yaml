@@ -1,0 +1,6 @@
+interface:
+  display_name: "参考短视频语义精剪"
+  short_description: "按口播证据和参考节奏，用自有素材精剪多版短视频"
+  default_prompt: "使用 $reference-video-remix 分析这条参考视频，再从我提供的素材库制作语义匹配的待审核版本。"
+policy:
+  allow_implicit_invocation: false
