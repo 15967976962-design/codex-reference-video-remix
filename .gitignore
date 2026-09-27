@@ -1,0 +1,15 @@
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.mp3
+*.wav
+*.aac
+*.m4a
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.zip
+.DS_Store
+Thumbs.db
